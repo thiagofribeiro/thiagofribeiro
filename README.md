@@ -1,6 +1,6 @@
 # Thiago Felipe Ribeiro
 
-Hi there! I'm coming from _a long a time ago, in a galaxy far, far away..._ to contribute with the IT community. I'm a front-end developer focused in bring to Earth with my work, developing apps with effortness, reability e enhancement.
+Hi there! I'm coming from _a long a time ago, in a galaxy far, far away..._ to contribute with the IT community. I'm a front-end developer focused in bring my work to Earth, developing apps with effortness, reability e enhancement.
 
 I have 10 years of experience in the development area, I have knowledge in the following technologies:
 - React
