@@ -1,4 +1,4 @@
-### Introduction
+# Thiago Felipe Ribeiro
 
 Hi there! I'm coming from _a long a time ago, in a galaxy far, far away..._ to contribute with the IT community. I'm a front-end developer focused in bring to Earth with my work, developing apps with effortness, reability e enhancement.
 
@@ -21,7 +21,7 @@ I have 10 years of experience in the development area, I have knowledge in the f
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofribeiro&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofribeiro&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagofribeiro&theme=buefy"/></td>
     </tr>   
   </table>
